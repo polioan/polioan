@@ -1,0 +1,27 @@
+{
+  "name": "polioan",
+  "version": "1.0.0",
+  "private": true,
+  "author": {
+    "name": "Ivan Polushin",
+    "url": "https://t.me/polioan"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=16"
+  },
+  "engineStrict": true,
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "dev": "tsx --watch build/build.ts",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.5",
+    "prettier": "^3.0.3",
+    "rimraf": "^5.0.5",
+    "tsx": "^3.13.0",
+    "typescript": "^5.2.2"
+  }
+}

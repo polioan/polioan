@@ -1,0 +1,50 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+
+    "noEmit": true,
+    "removeComments": true,
+    "sourceMap": false,
+    "declaration": false,
+
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "isolatedModules": true,
+    "resolveJsonModule": false,
+
+    "outDir": "./dist",
+
+    "lib": ["ESNext"],
+    "plugins": [],
+
+    "allowJs": true,
+    "checkJs": true,
+
+    "strict": true,
+
+    "useDefineForClassFields": true,
+    "alwaysStrict": true,
+
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": true,
+    "strictFunctionTypes": true,
+    "noImplicitThis": true,
+    "strictBindCallApply": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+    "allowUnreachableCode": false,
+    "allowUnusedLabels": false,
+    "noImplicitOverride": true,
+
+    "verbatimModuleSyntax": true
+  },
+  "include": ["build"],
+  "exclude": ["node_modules"]
+}
