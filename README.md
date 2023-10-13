@@ -1,6 +1,6 @@
 # 👋 Hello! My name is Ivan Polushin!
 
-I am middle backend/fullstack developer.
+I am middle backend/fullstack developer from Rostov-on-Don.
 
 ## My tech stack:
 
