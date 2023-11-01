@@ -92,6 +92,11 @@ export const techStack = [
     'Puppeteer'
   ),
   icon(
+    'https://www.rabbitmq.com/',
+    'https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rabbitmq.svg',
+    'RabbitMQ'
+  ),
+  icon(
     'https://trpc.io',
     'https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/trpc.svg',
     'tRPC'

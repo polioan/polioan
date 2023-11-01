@@ -131,6 +131,13 @@ I am middle backend/fullstack developer from Rostov-on-Don.
     height="36"
     alt="Puppeteer"
 /></a>
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rabbitmq.svg"
+    width="36"
+    height="36"
+    alt="RabbitMQ"
+/></a>
 <a href="https://trpc.io" target="_blank" rel="noreferrer"
   ><img
     src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/trpc.svg"
